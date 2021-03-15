@@ -9,7 +9,7 @@ Govinda Dasu kind of likes capsicum sometimes, but he likes aloo a lot. Overall 
 
 The Govinda Dasu South Indian Capsicum Koora
 
-#Ingredients for Govinda Dasu’s South India Capsicum Koora
+# Ingredients for Govinda Dasu’s South India Capsicum Koora
 - 4 Capsicum Peppers
 - 5 potatoes (Aloo), which are Govinda Dasu’s favorite.
 - 2 teaspoons Cumin Seeds (Jeera)
